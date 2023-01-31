@@ -3,3 +3,6 @@ devo declarar y exportar el componente... siempreeeeee!!!!
 
 ! --> operador de que nìalgo n es nullo info en el siguiente link
 https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-0.html#non-null-assertion-operator
+
+
+ng g s gifs/services/gifs -->para crear un servico
