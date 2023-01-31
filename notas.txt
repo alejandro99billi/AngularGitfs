@@ -1,2 +1,5 @@
 para crear colum e row me sirve hacer un .row y un .col las crea en automatico
 devo declarar y exportar el componente... siempreeeeee!!!!
+
+! --> operador de que nìalgo n es nullo info en el siguiente link
+https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-0.html#non-null-assertion-operator
