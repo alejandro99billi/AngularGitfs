@@ -6,3 +6,5 @@ https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-0.html#n
 
 
 ng g s gifs/services/gifs -->para crear un servico
+
+los pipes solo manipulan datos en el template
