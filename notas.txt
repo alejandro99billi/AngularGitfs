@@ -1,0 +1,2 @@
+para crear colum e row me sirve hacer un .row y un .col las crea en automatico
+devo declarar y exportar el componente... siempreeeeee!!!!
