@@ -8,3 +8,21 @@ https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-0.html#n
 ng g s gifs/services/gifs -->para crear un servico
 
 los pipes solo manipulan datos en el template
+
+angular nos permite hacer las llamadas https
+import {HttpClientModule} from '@angular/common/http';
+trabaja en base a los observables en lugar de las promesas(javascrip)
+debemos espicficar lo que viene en la response 
+cuando retornan observables se pueden hacer gran cantidades de ventajas
+por eso usamo esto al fecth api de javascrip
+
+colocar el tipado a la respuesta
+
+una web para tipar data en interfaces de typescript https://app.quicktype.io/
+
+en el navegador web me permite usar un store donde puedo usar informacion persistente
+
+
+alt + 96 ``
+
+JSON.stringify transforma un json en una stringa
