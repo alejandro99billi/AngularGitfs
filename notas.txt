@@ -26,3 +26,5 @@ en el navegador web me permite usar un store donde puedo usar informacion persis
 alt + 96 ``
 
 JSON.stringify transforma un json en una stringa
+
+animacions css https://animate.style/
